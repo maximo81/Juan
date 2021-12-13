@@ -3,6 +3,7 @@
 main()
 {
 	printf("lala");
+	printf("juan");
 	printf("pepe");
 }
 
